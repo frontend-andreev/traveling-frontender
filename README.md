@@ -5,7 +5,7 @@ Hi ![![Uploading 198057_O.png…]()
 ](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil
 ==============================================================================================================================
 
-Frontend developer who loves to travel)
+Frontend developer who loves to travel
 ---------------------------------------
 
 I've been doing client part of website for over 3 years now. During this time I've had time to work on freelancing and for several companies that eventually built my stack: html, css, scss, less, tailwind, javascript(ES5, ES6), jquery, vue, OOP, vite.
