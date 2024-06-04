@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil
+
+![198057_O](https://github.com/traveling-frontender/traveling-frontender/assets/62702483/3ef419ea-07e0-4bf1-9c37-d68a747b80db)
+
+Hi ![![Uploading 198057_O.png…]()
+](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil
 ==============================================================================================================================
 
 Frontend developer who loves to travel)
