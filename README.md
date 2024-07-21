@@ -10,7 +10,7 @@ Frontend developer who loves to travel
 
 I've been doing client part of website for over 3 years now. During this time I've had time to work on freelancing and for several companies that eventually built my stack: html, css, scss, less, tailwind, javascript(ES5, ES6), jquery, vue, OOP, vite.
 
-* 🌍  I'm based in Russia (Ufa)
+* 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [Daniil-developer](http://daniil-developer.ru/)
 * ✉️  You can contact me at [andreevdaniil781@gmail.com](mailto:andreevdaniil781@gmail.com)
 * 🚀  I'm currently working on [Pravoe delo](http://pravoe-delo.su/)
