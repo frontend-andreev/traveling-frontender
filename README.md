@@ -13,7 +13,7 @@ I've been doing client part of website for over 3 years now. During this time I'
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [Daniil-developer](http://daniil-developer.ru/)
 * ✉️  You can contact me at [andreevdaniil781@gmail.com](mailto:andreevdaniil781@gmail.com)
-* 🚀  I'm currently working on [Pravoe delo](http://pravoe-delo.su/)
+* 🚀  I'm currently working on Roistat
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on in any interesting projects
 * ⚡  My telegram: https://t.me/nfewft
